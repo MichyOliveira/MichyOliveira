@@ -9,10 +9,24 @@
   <h3 align="center">SOBRE MIM:</h3>
 </p>
 <h4 align="center">🍁ESPANHOL avançado🍁| 🍁INGLES intermediário🍁</h4>
-<h4 align="center">🍁Começando na programação agora🍁</h4>
-<h4 align="center">🍁Iniciei meus estudos com JAVA e INTERFACE GRÁFICA🍁</h4>
-<h4 align="center">🍁Quero aprender novas linguagens como:🍁</h4>
-<h4 align="center">Pyhton | C# | HTML | Banco de Dados</h4>
+<h4 align="center">🍁 MINHAS LINGUAGENS🍁</h4>
+<h4 align="center">🍁JAVA | HTML | CSS | JS | Python🍁</h4>
+<h2 align="center"></h2>
+<h4>🍁OBEJTIVOS:🍁</h4>
+<ul>
+  <li>
+    Continuar estudando para Desenvolvedora Web
+  </li>
+  <li>
+    Aprender React e TypeScript
+  </li>
+  <li>
+    Começar estudar BackEnd para me tornar FullStack
+  </li>
+  <li>
+    Ir para a area de Games e aprende C++
+  </li>
+</ul>
 
 <h2 align="center"></h2>
 <p align="center">
