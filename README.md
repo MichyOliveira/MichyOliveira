@@ -9,13 +9,12 @@
 <p align="center">Comecei recentemente a estudar programação. Fiz curso de JAVA e Python, mas vi que HTML é o que eu quero no momento!</p>
 <h4 align="center">🍁ESPANHOL avançado🍁| 🍁INGLES intermediário🍁</h4>
 <p align="center">
-  <a> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> </a>
-  <a> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> </a>
-  <a> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> </a>
-  <a> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> </a>
-  <a> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript&theme=light">
+  </a>
 </p>
-<h2 align="center"></h2>
+
+
 
 | <a href="https://github.com/MichyOliveira/github-readme-stats"><img align="center" height="220em" src="https://github-readme-stats.vercel.app/api?username=MichyOliveira&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="MichyOliveira github stats" /></a> | <a href="https://github.com/MichyOliveira/github-readme-stats"><img align="center" height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichyOliveira&layout=compact&theme=onedark&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -40,17 +39,18 @@
 <p align="center">
    <h3 align="center">REDES SOCIAIS</h3>
 </p>
+
 <p align="center">
   <a href="https://www.instagram.com/miih_oliveira37/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=light">
   </a>
   <a href="https://www.linkedin.com/in/mirela-oliveira-4062681a0/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light">
   </a>
   <a href="https://x.com/miiholiveira37">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=light">
   </a>
-  <a href="https://www.twitch.tv/soymichy">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+  <a href="https://discord.gg/vTd3hhRZ2b">
+    <img src="https://skillicons.dev/icons?i=discord&theme=light">
   </a>
 </p> 
