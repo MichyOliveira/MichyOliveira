@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Bem-vindo ao meu perfil! </h1>
 <h3 align="center">Hola! Bien Venido(a) a mi perfil! | Hello, Welcome to my profile! </h3>
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1165458863294775348/1272386239852707840/1709931997514.png?ex=66bac987&is=66b97807&hm=3de189b1d4444bc357f177c8ca70648a5ebfa3a75f0fb61bc23f6c6efbb57571&=&format=webp&quality=lossless&width=810&height=203" target="_blank">
+  <img src="/img/mirela.jpeg" target="_blank">
 </p>
 
 <h3 align="center">🍁SOBRE MIM🍁</h3>
