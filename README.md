@@ -6,11 +6,11 @@
 
 <h3 align="center">🍁SOBRE MIM🍁</h3>
 <p align="center">Me chamo Mirela, tenho 24 anos e sou de São Paulo!</p>
-<p align="center">Comecei recentemente a estudar programação. Fiz curso de JAVA e Python, mas vi que HTML é o que eu quero no momento!</p>
+<p align="center">Comecei recentemente a estudar programação. Tenho cursos e conhecimentos em JAVA, Python e Desenvolvimento Web!</p>
 <h4 align="center">🍁ESPANHOL avançado🍁| 🍁INGLES intermediário🍁</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript&theme=light">
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,react&theme=light">
   </a>
 </p>
 
@@ -22,16 +22,16 @@
 <h4>🍁OBEJTIVOS:🍁</h4>
 <ul>
   <li>
-    Continuar estudando para Desenvolvedora Web
+    Seguir estudando Desenvolvimento Web
   </li>
   <li>
-    Aprender React e TypeScript
+    Aprimorar React e TypeScript
   </li>
   <li>
     Começar estudar BackEnd para me tornar FullStack
   </li>
   <li>
-    Ir para a area de Games e aprende C++
+    Ir para a area de Games!
   </li>
 </ul>
 
